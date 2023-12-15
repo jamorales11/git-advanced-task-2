@@ -1,0 +1,10 @@
+This is the first file that is being added to the git_1 branch.
+Tracking Branches
+Checking out a local branch from a remote-tracking branch automatically creates what is 
+called a “tracking branch” (and the branch it tracks is called an “upstream branch”). 
+Tracking branches are local branches that have a direct relationship to a remote branch.
+What is Git Upstream Branch?
+When you want to checkout a branch in git from a remote repository such as GitHub or Bit
+bucket, the “Upstream Branch” is the remote branch hosted on Github or Bitbucket. 
+It’s the branch you fetch/pull from whenever you issue a plain git fetch/git pull 
+basically without arguments.
