@@ -8,3 +8,5 @@ compress a commit as a set of changes, or a "delta", from one version of the rep
 
 Git also maintains a history of which commits were made when. That's why most commits have ancestor commits 
 above them -- we designate this with arrows in our visualization. Maintaining history is great for everyone working on the project!
+Part 1 Step 4
+This are the new 2 lines added.
