@@ -1,5 +1,5 @@
 This is the first file that is being added to the git_1 branch.
-Tracking Branches
+Modifying line on folder1 for step 20.
 Checking out a local branch from a remote-tracking branch automatically creates what is 
 called a “tracking branch” (and the branch it tracks is called an “upstream branch”). 
 Tracking branches are local branches that have a direct relationship to a remote branch.
