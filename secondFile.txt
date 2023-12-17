@@ -10,3 +10,5 @@ Git also maintains a history of which commits were made when. That's why most co
 above them -- we designate this with arrows in our visualization. Maintaining history is great for everyone working on the project!
 Part1 Step 5
 I'm adding two lines in this file, different to the ones in secondFile on the git_2 branch.
+Part 1 Step 4
+This are the new 2 lines added.
