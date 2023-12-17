@@ -6,5 +6,5 @@ Tracking branches are local branches that have a direct relationship to a remote
 Modifying line 1 for step 7.
 Modifying line 2 for step 7.
 bucket, the “Upstream Branch” is the remote branch hosted on Github or Bitbucket. 
-Modifying line 1 for step 8.
-Modifying line 2 for step 8.
+Modifying line 1 on folder2 for step 18 .
+Modifying line 2 on folder2 for step 18.
