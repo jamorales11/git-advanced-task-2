@@ -6,5 +6,5 @@ Tracking branches are local branches that have a direct relationship to a remote
 Modifying line 1 for step 7.
 Modifying line 2 for step 7.
 bucket, the “Upstream Branch” is the remote branch hosted on Github or Bitbucket. 
-It’s the branch you fetch/pull from whenever you issue a plain git fetch/git pull 
-basically without arguments.
+Modifying line 1 for step 8.
+Modifying line 2 for step 8.
